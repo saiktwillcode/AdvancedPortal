@@ -1,0 +1,8 @@
+{
+  "name": "Remix Student Portal System",
+  "description": "Futuristic 3D Full-Stack Student Portal System with role-based dashboards, live grade tracking, interactive course scheduling, messaging, and AI academic assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
